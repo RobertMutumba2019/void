@@ -1,0 +1,53 @@
+body{
+    margin:0;
+
+}
+.Bio-data{
+   background-color:aqua;
+   color:red;
+   width:450px;
+    height:350px;
+    position: absolute;
+
+   
+}
+.Education-history{
+    background-color:blueviolet;
+    color:rgb(138, 23, 90);
+    width:450px;
+    height:350px;
+    position: relative;
+    left: 450px;
+    top: 350px;
+   
+}
+
+.hobbies{
+background-color:aquamarine;
+width:450px;
+    height:350px;
+    position: relative;
+    top: 330px;
+
+ }
+ .contact{
+     background-color:rgba(204, 193, 41, 0.76);
+     color:black;
+     width:450px;
+    height:350px;
+    position: relative;
+    left:900px;
+    bottom: 35px;
+ }
+ .photo{
+     background-color:green;
+     width:450px;
+    height:350px;
+    position: absolute;
+    left:900px;
+   
+ }
+
+ a{
+    text-decoration: none;
+ }
